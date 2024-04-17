@@ -1,6 +1,7 @@
 +++
 title = 'Automatic Beat Rate Detection in cardiomyocytes using Computer Vision'
-date = 2023-05-20
+date = 2023-01-17
+PublishDate = 2023-05-20
 draft = true
 +++
 
